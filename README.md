@@ -6,5 +6,6 @@ The linux rice of your dreams
 
 - **Terminal Emulator**: `kitty`
 - **System Moniter**: `conky`
+- **System fetch**: `neofetch`
 <hr>
 <h2>This is still being developed further so keep an eye out</h2>
