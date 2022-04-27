@@ -1,7 +1,7 @@
 # Biryani
 The linux rice of your dreams
 <hr>
-<h2>Applications used in the rice</h2>
+<h2>Applications used in Biryani</h2>
 <h3>Currently, most of them are the default, but here are the ones that aren't:</h3>
 
 - **Terminal Emulator**: `kitty`
