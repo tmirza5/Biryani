@@ -10,3 +10,7 @@ The linux rice of your dreams
 - **Text Editor**: `micro`
 <hr>
 <h2>This is still being developed further so keep an eye out</h2>
+<hr>
+<h2>Screenshots:</h2>
+
+![Screenshot](https://github.com/Tmirza5/Biryani/blob/main/neofetch.png)
