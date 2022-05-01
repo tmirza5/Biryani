@@ -13,4 +13,4 @@ The linux rice of your dreams
 <hr>
 <h2>Screenshots:</h2>
 
-![Screenshot](https://github.com/Tmirza5/Biryani/blob/main/neofetch.png)
+![Screenshot](https://github.com/Tmirza5/Biryani/blob/main/screenshot.png)
