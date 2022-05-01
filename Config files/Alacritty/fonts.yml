@@ -5,13 +5,13 @@
 font:
   # Normal (roman) font face
   normal:
-    family: "CartographCF Nerd Font"
+    family: "DaddyTimeMono NF"
     style: Regular
 
   # Bold font face
   bold:
-    family: "CartographCF"
-    style: Demi Bold Italic
+    family: "DaddyTimeMono NF"
+    style: Bold
 
   # Italic font face
   italic:
@@ -19,9 +19,9 @@ font:
     style: Italic
 
   # Bold italic font face
-  bold_italic:
-    family: "CartographCF"
-    style: Demi Bold Italic
+  #bold_italic:
+    #family: "CartographCF"
+    #style: Demi Bold Italic
 
   # Point size
   size: 13
