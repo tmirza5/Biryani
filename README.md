@@ -9,6 +9,9 @@ The linux rice of your dreams
 - **System fetch**: `neofetch`
 - **Text Editor**: `micro`
 <hr>
+<h2>Fonts:</h2>
+- `DaddyTimeMono`
+<hr>
 <h2>This is still being developed further so keep an eye out</h2>
 <hr>
 <h2>Screenshots:</h2>
