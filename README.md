@@ -11,7 +11,7 @@ The linux rice of your dreams
 <hr>
 <h2>Fonts:</h2>
 
-`DaddyTimeMono`
+- `DaddyTimeMono`
 
 <hr>
 <h2>This is still being developed further so keep an eye out</h2>
