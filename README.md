@@ -11,7 +11,7 @@ Delicious Arch Linux rice, no elaichi to ruin it either.
 <hr>
 <h2>Fonts:</h2>
 
-- `DaddyTimeMono`
+- `JetBrainsMono`
 
 <hr>
 <h2>This is still being developed further so keep an eye out</h2>
