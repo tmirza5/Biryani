@@ -5,7 +5,7 @@ Delicious Arch Linux rice, no elaichi to ruin it either.
 <h3>Currently, most of them are the default, but here are the ones that aren't:</h3>
 
 - **Terminal Emulator**: `Alacritty`
-- **System Moniter**: `conky`
+- **System Monitor**: `htop`
 - **System fetch**: `neofetch`
 - **Text Editor**: `micro`
 <hr>
